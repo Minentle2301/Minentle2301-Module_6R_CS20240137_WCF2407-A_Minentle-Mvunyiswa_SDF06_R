@@ -40,6 +40,7 @@ header {
   /* Align the profile image top left corner */
   margin-right: 30%;
   left: 10%;
+  border:5px seagreen;
 }
 
 .profile-user-settings {
